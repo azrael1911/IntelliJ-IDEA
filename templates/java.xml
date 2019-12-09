@@ -1,0 +1,26 @@
+<templateSet group="java">
+  <template name="logi" value="try{&#10;    logger.info(&quot; ==&gt; $CLASSNAME$ $METHODNAME$ Start&quot;);&#10;    &#10;    &#10;    logger.info(&quot; &lt;== $CLASSNAME$ $METHODNAME$ End&quot;);&#10;} catch (Exception e){&#10;    logger.error(&quot; &lt;== $CLASSNAME$ $METHODNAME$, Message:&quot; + e.toString());&#10;    jsonObject = JSONMessage.errorMessage(&quot;&quot;);&#10;}&#10;" description="@Slf4j Log Info" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHODNAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logb" value="try{&#10;    logger.debug(&quot; ==&gt; $CLASSNAME$ $METHODNAME$ Start&quot;);&#10;    ParameterSetModel psm = getParameterOfFilter(request.getParameterMap());&#10;    &#10;    &#10;    logger.debug(&quot; &lt;== $CLASSNAME$ $METHODNAME$ End&quot;);&#10;    &#10;    return jsonObject.toString();&#10;} catch (Exception e){&#10;    logger.debug(StringTool.dynamicLength(&quot;center&quot;, &quot;$CLASSNAME$ $METHODNAME$ Exception, Message : &quot;));&#10;    logger.debug(StringTool.dynamicLength(&quot;center&quot;, e.toString()));&#10;    throw new RuntimeException(e.toString());&#10;}" description="@Slf4j Log Debug" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHODNAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="setparam" value="private StringJoiner setParameter(StringJoiner sql, ParameterSetModel psm){&#10;    if(psm.getParameter() != null &amp;&amp; !&quot;&quot;.equals(psm.getParameter()) &amp;&amp; !&quot;null&quot;.equals(psm.getParameter())){&#10;        &#10;    }&#10;    &#10;    return sql;&#10;}" description="setParameter" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="getpof" value="@Override&#10;public ParameterSetModel getParameterOfFilter(Map&lt;String, String[]&gt; map){&#10;    // 公共参数&#10;    ParameterSetModel psm = super.getJqxGridPublicFilterParameter(map);&#10;    &#10;    if(map.containsKey(MagicalValue.DATA.getDesc())){&#10;        psm.setParameter(map.get(MagicalValue.DATA.getDesc())[0]);&#10;    }&#10;    &#10;    if(map.containsKey(MagicalValue.PARAMETER.getDesc())){&#10;        psm.setParameter(map.get(MagicalValue.PARAMETER.getDesc())[0]);&#10;    }&#10;    &#10;    return psm;&#10;}" description="getParameterOfFilter" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

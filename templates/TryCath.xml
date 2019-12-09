@@ -1,0 +1,23 @@
+<templateSet group="TryCath">
+  <template name="tryi" value="try{&#10;    &#10;    return null;&#10;} catch (Exception e){&#10;    logger.info(&quot;$CLASSNAME$ $METHODNAME$ , Message: &quot; + e.toString());&#10;    throw new RuntimeException(e.toString());&#10;}" description="@Slf4j Log Debug" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHODNAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryd" value="try{&#10;    &#10;    return null;&#10;} catch (Exception e){&#10;    logger.debug(&quot;$CLASSNAME$ $METHODNAME$ , Message: &quot; + e.toString());&#10;    throw new RuntimeException(&quot;$CLASSNAME$ $METHODNAME$ , Message: &quot; + e.toString());&#10;}" description="@Slf4j Log Debug" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHODNAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryic" value="try{&#10;    return null;&#10;} catch (Exception e){&#10;    logger.info(&quot;$CLASSNAME$ $METHODNAME$ , Message: &quot; + e.toString());&#10;    return JsonMessage.exceptionMessage(&quot;异常：&quot; + e.toString()).toString().replace(&quot;java.lang.RuntimeException: &quot;, &quot;&quot;);&#10;}" description="@Slf4j Log Info Control" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHODNAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
