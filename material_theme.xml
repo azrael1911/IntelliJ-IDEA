@@ -19,8 +19,9 @@
     <option name="leftTreeIndent" value="8" />
     <option name="rightTreeIndent" value="8" />
     <option name="tabsHeight" value="14" />
+    <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-a94113b:1674390325a:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="4.11.0" />
   </component>
 </application>
