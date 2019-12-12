@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refuse" />
+      <item value="拒绝" />
       <item value="Alert Message" />
       <item value="qgd Data Table Event" />
       <item value="After" />
@@ -49,13 +51,11 @@
       <item value="or" />
       <item value="remove" />
       <item value="清除" />
-      <item value="删除" />
-      <item value="数据库" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
