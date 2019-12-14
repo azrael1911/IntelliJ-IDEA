@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合并" />
       <item value="型号" />
       <item value="规格型号" />
       <item value="Money" />
@@ -14,7 +15,6 @@
       <item value="is Before" />
       <item value="get History Merge List" />
       <item value="get History Group And Merge" />
-      <item value="合并" />
       <item value="比对日期" />
       <item value="specify Date" />
       <item value="Before" />
