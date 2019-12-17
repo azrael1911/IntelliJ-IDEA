@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="roll Back" />
       <item value="references" />
       <item value="reference Subs" />
       <item value="reference Sub" />
@@ -50,12 +51,11 @@
       <item value="reback" />
       <item value="Result" />
       <item value="verification" />
-      <item value="box-footer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
