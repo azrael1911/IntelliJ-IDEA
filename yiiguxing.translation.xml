@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="清空" />
       <item value="validate" />
       <item value="Validate" />
       <item value="roll Back" />
@@ -50,12 +51,11 @@
       <item value="生成" />
       <item value="取消" />
       <item value="返回上一页" />
-      <item value="reback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
