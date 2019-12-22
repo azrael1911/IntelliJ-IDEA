@@ -13,7 +13,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="tryic" value="try{&#10;    return null;&#10;} catch (Exception e){&#10;    logger.info(&quot;$CLASSNAME$ $METHODNAME$ , Message: &quot; + e.toString());&#10;    return JsonMessage.exceptionMessage(&quot;异常：&quot; + e.toString()).toString().replace(&quot;java.lang.RuntimeException: &quot;, &quot;&quot;);&#10;}" description="@Slf4j Log Info Control" toReformat="false" toShortenFQNames="true">
+  <template name="tryic" value="try{&#10;    return null;&#10;} catch (Exception e){&#10;    logger.info(&quot;$CLASSNAME$ $METHODNAME$ , Message: &quot; + e.toString());&#10;    return JsonMessage.exceptionMessage(&quot;异常：&quot; + e.toString().substring(e.toString().lastIndexOf(&quot;: &quot;) + 1)).toString();&#10;}" description="@Slf4j Log Info Control" toReformat="false" toShortenFQNames="true">
     <variable name="CLASSNAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <variable name="METHODNAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <context>
