@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="垃圾桶" />
       <item value="search" />
       <item value="搜索" />
       <item value="隐藏" />
@@ -50,12 +51,11 @@
       <item value="result" />
       <item value="scanner" />
       <item value="红外" />
-      <item value="扫描枪" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
