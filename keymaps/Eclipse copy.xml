@@ -2,4 +2,20 @@
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="shift down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="shift up" />
+  </action>
+  <action id="Tree-selectPreviousExtendSelection" />
 </keymap>
