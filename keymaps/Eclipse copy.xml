@@ -1,21 +1,53 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="EditorDeleteToLineEnd">
-    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  <action id="CallHierarchy" />
+  <action id="ChangesView.ShelveSilently" />
+  <action id="ChooseNextSubsequentPropertyValueEditorAction" />
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
-  <action id="EditorDownWithSelection">
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="shift alt equals" />
+  </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="DecrementWindowHeight" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
-  <action id="EditorUpWithSelection">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
   </action>
-  <action id="MethodDown">
-    <keyboard-shortcut first-keystroke="shift down" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="alt minus" />
   </action>
-  <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="shift up" />
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
   </action>
-  <action id="Tree-selectPreviousExtendSelection" />
+  <action id="HippieCompletion" />
+  <action id="IncrementWindowHeight" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="XDebugger.MoveWatchUp" />
 </keymap>
