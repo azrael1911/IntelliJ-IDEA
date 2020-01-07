@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="excess" />
+      <item value="percent" />
+      <item value="percentage" />
+      <item value="百分数" />
+      <item value="百分比" />
       <item value="验证编辑内容" />
       <item value="verify is edit" />
       <item value="verify" />
@@ -9,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
