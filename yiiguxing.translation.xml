@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="结果" />
       <item value="重新计算金额" />
       <item value="重新计算" />
       <item value="reset Money" />
