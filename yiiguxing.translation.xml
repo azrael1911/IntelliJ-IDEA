@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="excess" />
       <item value="List Comparator" />
       <item value="Comparator List" />
       <item value="获取结果集" />
@@ -12,7 +13,6 @@
       <item value="industry" />
       <item value="刷新" />
       <item value="get Clck Edit Excess Ylsq" />
-      <item value="excess" />
       <item value="percent" />
       <item value="percentage" />
       <item value="百分数" />
@@ -25,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
