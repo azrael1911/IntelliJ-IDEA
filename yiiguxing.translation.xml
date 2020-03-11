@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cells renderer" />
+      <item value="cellsrenderer" />
       <item value="validate" />
       <item value="excess" />
       <item value="List Comparator" />
@@ -26,8 +28,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
+        <entry key="CHINESE" value="13" />
         <entry key="ENGLISH" value="13" />
+        <entry key="DANISH" value="1" />
       </map>
     </option>
   </component>
