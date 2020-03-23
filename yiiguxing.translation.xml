@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stub info" />
+      <item value="stubinfo" />
+      <item value="stub" />
+      <item value="备份" />
       <item value="Content" />
       <item value="get Action Parameter" />
       <item value="get Action Class Method Info" />
@@ -47,12 +51,11 @@
       <item value="验证编辑内容" />
       <item value="verify is edit" />
       <item value="test and verify" />
-      <item value="验证" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="39" />
         <entry key="DANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
