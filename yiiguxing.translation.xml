@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="data Base Name" />
+      <item value="table Prefix" />
       <item value="前缀" />
       <item value="construct Type" />
       <item value="package  class Name" />
@@ -49,13 +51,11 @@
       <item value="刷新" />
       <item value="get Clck Edit Excess Ylsq" />
       <item value="percent" />
-      <item value="percentage" />
-      <item value="百分数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="DANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
