@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="数值" />
+      <item value="numeric" />
+      <item value="数字" />
+      <item value="conversion Number" />
+      <item value="conversion Clcks Number" />
       <item value="ylsqs Source List" />
       <item value="display Xsht Th Status" />
       <item value="get Info Database Name" />
@@ -46,16 +51,11 @@
       <item value="validate" />
       <item value="excess" />
       <item value="List Comparator" />
-      <item value="Comparator List" />
-      <item value="获取结果集" />
-      <item value="结果" />
-      <item value="重新计算金额" />
-      <item value="重新计算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="DANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
