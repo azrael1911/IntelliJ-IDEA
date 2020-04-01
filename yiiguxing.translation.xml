@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Xcl Merge Info" />
+      <item value="get Xcl Info Merge List" />
       <item value="数值" />
       <item value="numeric" />
       <item value="数字" />
@@ -49,13 +51,11 @@
       <item value="cells renderer" />
       <item value="cellsrenderer" />
       <item value="validate" />
-      <item value="excess" />
-      <item value="List Comparator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="DANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
