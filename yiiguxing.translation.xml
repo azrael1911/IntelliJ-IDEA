@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Merge reference result" />
+      <item value="Merge reference result sets" />
+      <item value="合并参照结果集" />
+      <item value="recalculate Amount" />
       <item value="get Xcl Merge Info" />
       <item value="get Xcl Info Merge List" />
       <item value="数值" />
@@ -47,15 +51,11 @@
       <item value="verifica" />
       <item value="verification" />
       <item value="get Verify Parameter Type" />
-      <item value="result" />
-      <item value="cells renderer" />
-      <item value="cellsrenderer" />
-      <item value="validate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="57" />
         <entry key="DANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
