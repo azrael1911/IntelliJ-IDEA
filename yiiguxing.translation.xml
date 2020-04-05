@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="yljh Validate Form" />
       <item value="cgrk Validate Form" />
       <item value="source" />
       <item value="verify" />
@@ -50,12 +51,11 @@
       <item value="verify Parameter Info" />
       <item value="方法" />
       <item value="mothed Type" />
-      <item value="action" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="DANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
