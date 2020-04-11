@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="yljh Ssdwbh" />
       <item value="get Safety Base 64 Parameter" />
       <item value="safety" />
       <item value="encode Map Json" />
@@ -50,14 +51,14 @@
       <item value="Merge reference result" />
       <item value="Merge reference result sets" />
       <item value="合并参照结果集" />
-      <item value="recalculate Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
+        <entry key="CHINESE" value="103" />
         <entry key="ENGLISH" value="103" />
         <entry key="DANISH" value="1" />
         <entry key="ITALIAN" value="1" />
+        <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
