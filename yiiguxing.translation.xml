@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Online User Repository Support" />
+      <item value="support" />
       <item value="homepage" />
       <item value="online User Viewer" />
       <item value="set Andcalc Amount" />
@@ -49,13 +51,11 @@
       <item value="construct Type" />
       <item value="package  class Name" />
       <item value="包路径" />
-      <item value="stub info" />
-      <item value="stubinfo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="DANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
