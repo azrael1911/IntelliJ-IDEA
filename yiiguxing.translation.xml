@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="online User Viewer" />
       <item value="set Andcalc Amount" />
       <item value="generate Row" />
       <item value="SELECT COUNT(QGDS_ID) FROM tab_qgds qgds LEFT JOIN tab_qgd qgd ON qgd.QGD_BH = qgds.QGDS_MBH WHERE 1 = 1 AND qgds.QGDS_SSDWBH = '01' AND ((CONVERT(qgds.QGDS_WLSL,DECIMAL(19,3)) - (CONVERT(IFNULL(qgds.QGDS_CGWLSL,0),DECIMAL(19,3))) &gt; 0 OR (CONVERT(IFNULL(qgds.QGDS_FZSL,0),DECIMAL(19,3)) - CONVERT(IFNULL(qgds.QGDS_CGFZSL,0),DECIMAL(19,3))) &gt; 0 ) AND qgd.QGD_SHR IS NOT NULL AND qgd.QGD_TYR IS NULL" />
@@ -50,12 +51,11 @@
       <item value="stub info" />
       <item value="stubinfo" />
       <item value="stub" />
-      <item value="备份" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="DANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
