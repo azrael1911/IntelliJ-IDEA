@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Assert that an array contains elements; that is, it must not be * {@code null} and must contain at least one element. * &lt;pre class=&quot;code&quot;&gt; * Assert.notEmpty(array, () -&amp;gt; &quot;The &quot; + arrayType + &quot; array must contain elements&quot;); * &lt;/pre&gt; * @param array the array to check * @param messageSupplier a supplier for the exception message to use if the * assertion fails * @throws IllegalArgumentException if the object array is {@code null} or contains no elements * @since 5.0" />
+      <item value="Assert that the given String is not empty; that is, * it must not be {@code null} and not the empty String. * &lt;pre class=&quot;code&quot;&gt;Assert.hasLength(name, &quot;Name must not be empty&quot;);&lt;/pre&gt; * @param text the String to check * @param message the exception message to use if the assertion fails * @throws IllegalArgumentException if the text is empty * @see StringUtils#hasLength" />
       <item value="safety" />
       <item value="storage Util" />
       <item value="Util" />
@@ -49,13 +51,11 @@
       <item value="cgrk Validate Form" />
       <item value="source" />
       <item value="verify" />
-      <item value="验收" />
-      <item value="检验" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="ITALIAN" value="1" />
