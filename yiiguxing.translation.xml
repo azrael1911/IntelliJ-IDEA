@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="storage Util" />
+      <item value="Util" />
+      <item value="storage" />
       <item value="yljh Ssdwbh" />
       <item value="get Safety Base 64 Parameter" />
       <item value="safety" />
@@ -48,15 +51,13 @@
       <item value="verify" />
       <item value="验收" />
       <item value="检验" />
-      <item value="Merge reference result" />
-      <item value="Merge reference result sets" />
-      <item value="合并参照结果集" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="104" />
         <entry key="DANISH" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="1" />
       </map>
