@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="绿色" />
+      <item value="黑色" />
       <item value="2003092" />
       <item value="manage" />
       <item value="jqx Grid Define Method" />
@@ -49,13 +51,11 @@
       <item value="button Confirm" />
       <item value="reset Info" />
       <item value="清空" />
-      <item value="模块" />
-      <item value="model Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="ENGLISH" value="114" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="ITALIAN" value="1" />
