@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Session" />
       <item value="jump To" />
       <item value="绿色" />
       <item value="黑色" />
@@ -50,12 +51,11 @@
       <item value="mobile" />
       <item value="stock" />
       <item value="button Confirm" />
-      <item value="reset Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="ITALIAN" value="1" />
