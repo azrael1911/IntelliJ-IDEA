@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Soft Ware" />
       <item value="get Day Before" />
       <item value="get Fixed Month Day Before" />
       <item value="day Info" />
@@ -50,12 +51,11 @@
       <item value="confound" />
       <item value="INSTANCE" />
       <item value="hidden-xs hides the username on small devices so only the image appears" />
-      <item value="Online User Repository Support" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="ITALIAN" value="1" />
