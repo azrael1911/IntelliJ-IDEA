@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="child" />
       <item value="menu Able" />
       <item value="build List To Tree JSON" />
       <item value="ENABLE" />
@@ -50,7 +51,6 @@
       <item value="ALWAYS" />
       <item value="build Non Null Mapper" />
       <item value="build Normal Mapper" />
-      <item value="Value that indicates that property is to be always included, * independent of value of the property." />
     </histories>
     <option name="languageScores">
       <map>
