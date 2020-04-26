@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="build List To Tree JSON" />
       <item value="ENABLE" />
       <item value="memo" />
       <item value="method" />
@@ -50,12 +51,11 @@
       <item value="build Normal Mapper" />
       <item value="Value that indicates that property is to be always included, * independent of value of the property." />
       <item value="Value that indicates that properties are included unless their value * is: *&lt;ul&gt; * &lt;li&gt;null&lt;/li&gt; * &lt;li&gt;&quot;absent&quot; value of a referential type (like Java 8 `Optional`, or * {link java.utl.concurrent.atomic.AtomicReference}); that is, something * that would not deference to a non-null value. * &lt;/ul&gt; * This option is mostly used to work with &quot;Optional&quot;s (Java 8, Guava). * * @since 2.6" />
-      <item value="Value that indicates that only properties with non-null * values are to be included." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="1" />
