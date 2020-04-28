@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deprecated" />
+      <item value="is Null Or Empty" />
+      <item value="empty" />
+      <item value="空" />
+      <item value="is Emeny Or Null" />
+      <item value="validate" />
       <item value="include" />
       <item value="包含" />
       <item value="validate Status" />
@@ -45,17 +51,11 @@
       <item value="yljh Ssdwbh" />
       <item value="get Safety Base 64 Parameter" />
       <item value="encode Map Json" />
-      <item value="get Build Non Default Mapper" />
-      <item value="get Build Non Null Mapper" />
-      <item value="get Build Always Mapper" />
-      <item value="Build Always Mapper" />
-      <item value="Build" />
-      <item value="Always" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="142" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="1" />
