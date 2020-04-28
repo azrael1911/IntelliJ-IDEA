@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="include" />
+      <item value="包含" />
       <item value="validate Status" />
       <item value="child" />
       <item value="menu Able" />
@@ -49,13 +51,11 @@
       <item value="Build Always Mapper" />
       <item value="Build" />
       <item value="Always" />
-      <item value="ALWAYS" />
-      <item value="build Non Null Mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="136" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="1" />
