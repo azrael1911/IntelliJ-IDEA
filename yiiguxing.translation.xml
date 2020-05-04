@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Edit Settings" />
       <item value="get Tree Grid Source Row" />
       <item value="set User Menu State" />
       <item value="Methods" />
@@ -50,12 +51,11 @@
       <item value="image Reference" />
       <item value="Date Time Linked Pickers" />
       <item value="query Image List Service" />
-      <item value="imagelist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="SWEDISH" value="1" />
