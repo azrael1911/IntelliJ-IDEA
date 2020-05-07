@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Tree Table Fields Columns" />
       <item value="jqx Tree Properties" />
       <item value="Method" />
       <item value="check Operation Purview Around" />
@@ -50,12 +51,11 @@
       <item value="is Emeny Or Null" />
       <item value="validate" />
       <item value="include" />
-      <item value="包含" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="SWEDISH" value="1" />
