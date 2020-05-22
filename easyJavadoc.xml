@@ -1,11 +1,11 @@
 <application>
   <component name="easyJavadoc">
     <option name="author" value="Azrael1911" />
-    <option name="simpleFieldDoc" value="true" />
     <option name="wordMap">
       <map>
-        <entry key="controller" value="控制" />
+        <entry key="cc" value="仓储" />
         <entry key="report" value="报告" />
+        <entry key="sc" value="生产" />
       </map>
     </option>
   </component>
