@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instantiates a new cpzlfx control" />
+      <item value="Instantiates" />
+      <item value="Controller" />
       <item value="excess" />
       <item value="高度" />
       <item value="logo-title" />
@@ -48,14 +51,11 @@
       <item value="模块" />
       <item value="功能" />
       <item value="purview" />
-      <item value="set Edit Settings" />
-      <item value="get Tree Grid Source Row" />
-      <item value="set User Menu State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="208" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="SWEDISH" value="1" />

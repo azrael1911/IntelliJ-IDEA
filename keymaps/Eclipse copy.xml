@@ -50,4 +50,10 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="XDebugger.MoveWatchUp" />
+  <action id="javadoc.generator">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
+  <action id="javadoc.generatorAll">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
 </keymap>
