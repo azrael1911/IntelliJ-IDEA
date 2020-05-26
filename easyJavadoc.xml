@@ -9,6 +9,7 @@
         <entry key="sc" value="生产" />
         <entry key="scdds" value="生产订单子表" />
         <entry key="sql" value="SQL对象或语句" />
+        <entry key="yljhzxtjb" value="用料计划执行统计表" />
       </map>
     </option>
   </component>
