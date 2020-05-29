@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aspect" />
       <item value="qgdlb Refer Qgd Modal Event" />
       <item value="content-box" />
       <item value="补全" />
@@ -50,11 +51,10 @@
       <item value="Method" />
       <item value="check Operation Purview Around" />
       <item value="Around" />
-      <item value="current" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
+        <entry key="CHINESE" value="217" />
         <entry key="ENGLISH" value="217" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="3" />
