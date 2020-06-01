@@ -7,6 +7,7 @@
         <entry key="cc" value="仓储" />
         <entry key="chda" value="存货档案" />
         <entry key="dz" value="对账" />
+        <entry key="pdds" value="盘点单子表" />
         <entry key="sc" value="生产" />
         <entry key="scdds" value="生产订单子表" />
         <entry key="sql" value="SQL对象或语句" />
