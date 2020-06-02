@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="传真" />
+      <item value="电话" />
       <item value="表前缀" />
       <item value="Row" />
       <item value="verification Type" />
@@ -49,8 +51,6 @@
       <item value="money Reg Exp" />
       <item value="Reg Exp" />
       <item value="open Xshx View" />
-      <item value="open Xshx Viewer" />
-      <item value="modulus" />
     </histories>
     <option name="languageScores">
       <map>
