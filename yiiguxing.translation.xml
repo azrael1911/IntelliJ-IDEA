@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decimal Tools" />
       <item value="创建" />
       <item value="open Single Menu" />
       <item value="single Menu" />
@@ -50,12 +51,11 @@
       <item value="Write" />
       <item value="open Write Viewer" />
       <item value="核销" />
-      <item value="勾对" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="SWEDISH" value="1" />
