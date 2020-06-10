@@ -4,6 +4,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="getTableHeight.hs" type="PLAIN_TEXT" />
       <mapping ext="grf" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
