@@ -6,7 +6,9 @@
         <entry key="bmbh" value="部门编号" />
         <entry key="cc" value="仓储" />
         <entry key="chda" value="存货档案" />
+        <entry key="dbd" value="调拨单" />
         <entry key="dz" value="对账" />
+        <entry key="lb" value="列表" />
         <entry key="pdd" value="盘点单" />
         <entry key="pdds" value="盘点单子表" />
         <entry key="qtck" value="其他出库" />
