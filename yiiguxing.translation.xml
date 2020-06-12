@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validation" />
+      <item value="validator" />
       <item value="block" />
       <item value="Decimal Tools" />
       <item value="创建" />
@@ -49,12 +51,10 @@
       <item value="subtract" />
       <item value="write Off Title" />
       <item value="open Write Off Viewer" />
-      <item value="Write" />
-      <item value="open Write Viewer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
+        <entry key="CHINESE" value="228" />
         <entry key="ENGLISH" value="228" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="3" />
