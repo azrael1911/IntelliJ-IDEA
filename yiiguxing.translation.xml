@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="跳转" />
       <item value="validation" />
       <item value="validator" />
       <item value="block" />
@@ -50,12 +51,11 @@
       <item value="call Type" />
       <item value="subtract" />
       <item value="write Off Title" />
-      <item value="open Write Off Viewer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="SWEDISH" value="1" />
