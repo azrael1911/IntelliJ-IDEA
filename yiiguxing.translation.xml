@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="class" />
       <item value="cgdd Interface Services" />
       <item value="interface" />
       <item value="interfaces" />
@@ -50,11 +51,10 @@
       <item value="Filter" />
       <item value="close Select" />
       <item value="review Select" />
-      <item value="cgdd Validate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
+        <entry key="CHINESE" value="237" />
         <entry key="ENGLISH" value="237" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="3" />
