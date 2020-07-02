@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ebidding" />
       <item value="class" />
       <item value="cgdd Interface Services" />
       <item value="interface" />
@@ -50,7 +51,6 @@
       <item value="跨年" />
       <item value="Filter" />
       <item value="close Select" />
-      <item value="review Select" />
     </histories>
     <option name="languageScores">
       <map>
@@ -58,6 +58,7 @@
         <entry key="ENGLISH" value="237" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="3" />
+        <entry key="MALAY" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="1" />
