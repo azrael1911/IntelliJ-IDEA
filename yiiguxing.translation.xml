@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enable" />
       <item value="call commit with parameter true if the synchronization with the server is successful and with parameter false if the synchronization failed." />
       <item value="call commit with parameter true if the synchronization with the server is successful" />
       <item value="synchronize with the server - send update command" />
@@ -50,12 +51,11 @@
       <item value="qgdlb Refer Qgd Modal Event" />
       <item value="content-box" />
       <item value="补全" />
-      <item value="本年度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAY" value="1" />
