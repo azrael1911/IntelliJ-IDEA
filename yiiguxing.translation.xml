@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="放弃" />
+      <item value="撤销" />
       <item value="id Card" />
       <item value="null Message" />
       <item value="value Message" />
@@ -30,7 +32,6 @@
       <item value="construct Xsfhs" />
       <item value="Can" />
       <item value="Canl" />
-      <item value="撤销" />
       <item value="派" />
       <item value="派送" />
       <item value="托运" />
@@ -50,12 +51,11 @@
       <item value="Decimal Tools" />
       <item value="创建" />
       <item value="open Single Menu" />
-      <item value="single Menu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAY" value="1" />
