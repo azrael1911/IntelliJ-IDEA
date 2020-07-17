@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合并" />
       <item value="result" />
       <item value="xsyfjs Delivery Form" />
       <item value="Delivery" />
@@ -50,12 +51,11 @@
       <item value="zone" />
       <item value="city" />
       <item value="cities" />
-      <item value="Place" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="DANISH" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALAY" value="1" />
